@@ -1,0 +1,8 @@
+[{
+  "modid": "speedometer",
+  "name": "Speedometer",
+  "description": "Показывает скорость передвижения игрока в км/ч.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "authorList": ["you"]
+}]
